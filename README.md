@@ -1,6 +1,6 @@
 https://github.com/Alvarojorgeg/gesto-clientes-supermejorado.git
 
-![Diagrama de flujo](./diagram.png)
+![Diagrama de flujo](./diagrama.png)
 
 Este proyecto es una aplicación para la gestión de clientes, diseñada para mejorar la eficiencia y organización en el manejo de datos de clientes.
 
